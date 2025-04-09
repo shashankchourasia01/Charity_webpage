@@ -60,7 +60,7 @@ const Home = () => {
           backgroundImage: `url(${bgImage})`,
         }}
       >
-        <div className="pl-4 md:pl-10 lg:pl-[160px] pr-4 text-white mb-40">
+        <div className="pl-4 md:pl-10 lg:pl-[160px] pr-4 text-white ">
           <div className="w-full md:w-1/2 space-y-6">
             {/* Heading */}
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-extrabold leading-tight">
